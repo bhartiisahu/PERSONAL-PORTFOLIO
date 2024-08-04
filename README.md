@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # PERSONAL-PORTFOLIO
 My dynamic Portfolio using nodejs
 =======
@@ -363,3 +364,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 I was motivated to create this project because I wanted to contribute on something useful for the dev community, thanks to [ZTM Community](https://github.com/zero-to-mastery) and [Andrei](https://github.com/aneagoie)
 >>>>>>> 33f6caf (file added)
+=======
+# PERSONAL-PORTFOLIO
+A personal portfolio using NodeJS
+>>>>>>> a38c31d64a5bf228ac02b90c3f9b29512b8c9641
